@@ -39,3 +39,20 @@ return
 โฟลเดอร์ Startup จะเปิดขึ้นมา.
 
 ย้ายไฟล์ .ahk เข้าไปในโฟลเดอร์นี้.
+# อย่าลืมตั้งค่าของวินโดด้วยคับ
+การตั้งค่าปุ่มเปลี่ยนภาษาใน Windows
+กด Win+I เพื่อเปิด Settings.
+
+ไปที่ Time & Language และคลิก Language & region.
+
+ภายใต้ Keyboards ให้คลิก Typing.
+
+เลือก Advanced keyboard settings.
+
+คลิก Input language hot keys.
+
+ในหน้าต่าง Text Services and Input Languages, ไปที่แท็บ Advanced Key Settings.
+
+คลิกที่ Change Key Sequence....
+
+ตั้งค่าปุ่มให้เป็น Ctrl+Shift (หรือปุ่มที่คุณตั้งไว้ในสคริปต์).
